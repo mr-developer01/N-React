@@ -1,0 +1,22 @@
+{
+  "name": "02react",
+  "version": "1.0.0",
+  "description": "This is about Food Odering App",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Food",
+    "Odering"
+  ],
+  "author": "Rahul",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.0",
+    "process": "^0.11.10"
+  }
+}
